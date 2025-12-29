@@ -1,0 +1,7 @@
+{
+  "name": "Aura Metals Tracker",
+  "description": "A premium, minimalist dashboard for tracking real-time gold and silver prices across global currencies with AI-powered market insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
